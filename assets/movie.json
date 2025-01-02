@@ -10,7 +10,10 @@
     "director": "Director 1",
     "genres": ["Genre1", "Genre2"],
     "backdrop_path": "/path/to/backdrop1.jpg",
-    "revenue": 1000000.0
+    "revenue": 1000000.0,
+    "vote_count": 500,
+    "popularity": 80.0,
+    "budget": 200000.0
   },
   {
     "id": 2,
@@ -23,6 +26,9 @@
     "director": "Director 2",
     "genres": ["Genre3", "Genre4"],
     "backdrop_path": "/path/to/backdrop2.jpg",
-    "revenue": 2000000.0
+    "revenue": 2000000.0,
+    "vote_count": 400,
+    "popularity": 75.0,
+    "budget": 150000.0
   }
 ]
