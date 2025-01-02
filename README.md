@@ -1,16 +1,10 @@
-# movie_infp_app
+# Movie Info App
 
-A new Flutter project.
+Movie Info App은 사용자가 인기 있는 영화, 평점 높은 영화, 개봉 예정 영화를 확인하고 각 영화의 상세 정보를 볼 수 있는 Flutter 애플리케이션입니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 주요 기능
+- 현재 상영 중인 영화 목록 보기
+- 인기 있는 영화 목록 보기
+- 평점 높은 영화 목록 보기
+- 개봉 예정 영화 목록 보기
+- 각 영화의 상세 정보 보기 (평점, 평점 투표수, 인기 점수, 예산, 수익 등 포함)
