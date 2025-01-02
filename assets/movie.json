@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Movie Title 1",
+    "overview": "This is the overview of Movie Title 1",
+    "poster_path": "/path/to/poster1.jpg",
+    "release_date": "2023-01-01",
+    "vote_average": 8.5,
+    "runtime": 120,
+    "director": "Director 1",
+    "genres": ["Genre1", "Genre2"],
+    "backdrop_path": "/path/to/backdrop1.jpg",
+    "revenue": 1000000.0
+  },
+  {
+    "id": 2,
+    "title": "Movie Title 2",
+    "overview": "This is the overview of Movie Title 2",
+    "poster_path": "/path/to/poster2.jpg",
+    "release_date": "2023-02-01",
+    "vote_average": 7.9,
+    "runtime": 110,
+    "director": "Director 2",
+    "genres": ["Genre3", "Genre4"],
+    "backdrop_path": "/path/to/backdrop2.jpg",
+    "revenue": 2000000.0
+  }
+]
